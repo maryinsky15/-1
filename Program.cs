@@ -16,7 +16,7 @@ namespace Бибика
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Договор());
+            Application.Run(new Main());
         }
     }
 }
